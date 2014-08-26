@@ -1,0 +1,4 @@
+calculator
+==========
+
+Probability & statistics calculator
